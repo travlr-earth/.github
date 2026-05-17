@@ -2,7 +2,7 @@
 
 <table width="100%" cellpadding="16">
   <tr>
-    <td width="33%" valign="top">
+    <td width="60%" valign="top">
 
 ### Beyond a travel app
 
@@ -14,16 +14,17 @@ TRAVLR extends beyond software through connected, sensor-enabled smart souvenirs
 
 Digital memories become physical. Physical memories become interactive.
 
-   </td>
+</td>
 
-   <td width="66%" align="center" valign="middle">
-      <img
-        src="travlr_product.webp?raw=1"
-        alt="TRAVLR ecosystem"
-        width="100%"
-      />
-   </td>
-  </tr>
+<td width="40%" align="center" valign="middle">
+<img
+  src="travlr_product.webp?raw=1"
+  alt="TRAVLR ecosystem"
+  width="100%"
+/>
+</td>
+
+</tr>
 </table>
 
 ---
@@ -46,27 +47,14 @@ Digital memories become physical. Physical memories become interactive.
 <tr>
 
 <td align="center">
-<img src="https://github.com/USERNAME1.png?size=140" width="100"/><br>
-<b>Name</b><br>
-Founder / Product
-</td>
 
-<td align="center">
-<img src="https://github.com/USERNAME2.png?size=140" width="100"/><br>
-<b>Name</b><br>
-Engineering
-</td>
+<a href="https://github.com/matsmiersen">
+<img src="https://github.com/matsmiersen.png?size=180" width="120"/><br>
+</a>
 
-<td align="center">
-<img src="https://github.com/USERNAME3.png?size=140" width="100"/><br>
-<b>Name</b><br>
-Design
-</td>
+<b>Mats Miersen</b><br>
+Founder · Product · Design · Engineering
 
-<td align="center">
-<img src="https://github.com/USERNAME4.png?size=140" width="100"/><br>
-<b>Name</b><br>
-Data + AI
 </td>
 
 </tr>
@@ -77,16 +65,6 @@ Data + AI
 <details>
 
 <summary><b>Members Directory</b></summary>
-
-<br>
-
-| Member | Role | Area |
-|---|---:|---|
-| Name | Founder | Product & Strategy |
-| Name | Engineer | Frontend |
-| Name | Engineer | Backend |
-| Name | Design | Visual Systems |
-| Name | AI | Explore Intelligence |
 
 <br>
 
@@ -101,7 +79,7 @@ Data + AI
 | 🤖 | [data](https://github.com/travlr-earth/data) | Agentic exploration layer |
 | 🎨 | [styles](https://github.com/travlr-earth/styles) | Design tokens & shared styles |
 | 🚀 | [deploy](https://github.com/travlr-earth/deploy) | Infrastructure & deployment |
-| 📚 | [context](https://github.com/travlr-earth/context) | Shared context & SSOT |
+| 📚 | [context](https://github.com/travlr-earth/context) | Shared agent & dev context (SSOT) |
 
 </details>
 
