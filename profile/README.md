@@ -9,7 +9,7 @@ TRAVLR extends beyond software through connected, sensor-enabled smart souvenirs
 Digital memories become physical. Physical memories become interactive.
 Memories stay alive forever.
   </td>
-    <td style="width:40%; vertical-align:top; text-align:center;">
+  <td style="width:40%; vertical-align:top; text-align:center;">
     <img
       src="travlr_product.webp?raw=1"
       style="width:100%; max-width:500px; display:block; margin:0 auto;"
@@ -29,31 +29,29 @@ Memories stay alive forever.
 - 📖 Tap any smart souvenir to instantly relive experiences
 ---
 ### Team
-
 <table width="100%">
   <tr>
-    <td align="center" style="width:50%; vertical-align:top; padding:20px;">
-      <a href="https://github.com/matsmiersen">
-        <img src="https://github.com/matsmiersen.png?size=200" width="130" style="border-radius:50%; border:3px solid #22d3ee;" />
-      </a>
-      <br><br>
-      <b>Mats Miersen</b><br>
-      Founder
+    <td align="center" style="width:50%; vertical-align:top;">
+<a href="https://github.com/matsmiersen">
+<img src="https://github.com/matsmiersen.png?size=180" width="120" style="border-radius:12px;" />
+</a>
+<br><br>
+<b>Mats Miersen</b><br>
+Founder
     </td>
-    <td align="center" style="width:50%; vertical-align:top; padding:20px;">
-      <a href="https://discord.com/users/1048558581143830579">
-        <div style="width:130px; height:130px; margin:0 auto; background:#1e2338; border-radius:50%; display:flex; align-items:center; justify-content:center; border:3px solid #5865F2;">
-          <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="80" />
-        </div>
-      </a>
-      <br><br>
-      <b>Join Team</b><br>
-      Member<br><br>
-      <a href="https://discord.com/users/1048558581143830579">Message on Discord</a>
+    <td align="center" style="width:50%; vertical-align:top;">
+<a href="https://discord.com/users/1048558581143830579">
+<div style="width:120px; height:120px; display:flex; align-items:center; justify-content:center; margin:0 auto;">
+  <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="90" />
+</div>
+</a>
+<b>Join Team</b><br>
+Member
+<br>
+<a href="https://discord.com/users/1048558581143830579">Message on Discord</a>
     </td>
   </tr>
 </table>
-
 <details>
 <summary><b>Members Directory</b></summary>
 <br>
