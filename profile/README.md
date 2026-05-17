@@ -38,35 +38,30 @@ Memories stay alive forever.
 
 ### Team
 
-<div style="display: flex; gap: 24px; flex-wrap: wrap; justify-content: center; margin: 32px 0;">
-
-  <!-- Founder Card -->
-  <div style="flex: 1; min-width: 260px; max-width: 320px; border: 2px solid #22d3ee; border-radius: 16px; padding: 24px; background: #0d1117; text-align: center;">
-    <a href="https://github.com/matsmiersen">
-      <img src="https://github.com/matsmiersen.png?size=200" width="120" height="120" style="border-radius: 50%; border: 4px solid #22d3ee;" alt="Mats Miersen"/>
-    </a>
-    <h3 style="margin: 16px 0 4px;">Mats Miersen</h3>
-    <p style="color: #22d3ee; margin: 0 0 16px; font-weight: 600;">Founder</p>
-    <a href="https://github.com/matsmiersen" style="color: #8b949e; text-decoration: none;">
-      @matsmiersen
-    </a>
-  </div>
-
-  <!-- Join Team Card -->
-  <div style="flex: 1; min-width: 260px; max-width: 320px; border: 2px solid #5865F2; border-radius: 16px; padding: 24px; background: #0d1117; text-align: center; display: flex; flex-direction: column; align-items: center; justify-content: center;">
-    <a href="https://discord.com/users/1048558581143830579">
-      <div style="width: 120px; height: 120px; background: #1e2338; border-radius: 50%; display: flex; align-items: center; justify-content: center; margin-bottom: 16px; border: 4px solid #5865F2;">
-        <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="70" style="opacity: 0.9;"/>
-      </div>
-    </a>
-    <h3 style="margin: 0 0 8px;">Join the Team</h3>
-    <p style="color: #8b949e; margin: 0 0 16px;">We're hiring builders who love travel &amp; tech</p>
-    <a href="https://discord.com/users/1048558581143830579" style="background: #5865F2; color: white; padding: 10px 20px; border-radius: 8px; text-decoration: none; font-weight: 600;">
-      Message on Discord
-    </a>
-  </div>
-
-</div>
+<table width="100%">
+  <tr>
+    <td align="center" style="padding: 20px;">
+      <a href="https://github.com/matsmiersen">
+        <img src="https://github.com/matsmiersen.png?size=200" width="130" style="border-radius: 50%; border: 3px solid #22d3ee;" alt="Mats Miersen"/>
+      </a>
+      <br><br>
+      <b>Mats Miersen</b><br>
+      <span style="color:#22d3ee;">Founder</span>
+    </td>
+    
+    <td align="center" style="padding: 20px;">
+      <a href="https://discord.com/users/1048558581143830579">
+        <div style="width:130px; height:130px; background:#1e2338; border-radius:50%; display:flex; align-items:center; justify-content:center; margin:0 auto; border: 3px solid #5865F2;">
+          <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="75"/>
+        </div>
+      </a>
+      <br><br>
+      <b>Join the Team</b><br>
+      <span style="color:#8b949e;">Member</span><br><br>
+      <a href="https://discord.com/users/1048558581143830579" style="color:#5865F2; text-decoration:none;">Message on Discord →</a>
+    </td>
+  </tr>
+</table>
 
 <details>
 <summary><b>Members Directory</b></summary>
