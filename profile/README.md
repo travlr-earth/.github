@@ -1,8 +1,8 @@
 # TRAVLR
 
-<table width="100%" cellpadding="16">
+<table width="100%" cellpadding="16" cellspacing="0">
   <tr>
-    <td width="60%" valign="top">
+    <td style="width:60%; vertical-align:top;">
 
 ### Beyond a travel app
 
@@ -13,18 +13,18 @@ Built around a real-time 3D globe experience, TRAVLR combines a travel companion
 TRAVLR extends beyond software through connected, sensor-enabled smart souvenirs. Users can buy, collect, and gift physical travel objects directly from the app. A simple tap unlocks associated memories, stories, photos, and experiences — turning souvenirs into living containers for travel history.
 
 Digital memories become physical. Physical memories become interactive.
+Memories stay alive forever.
 
-</td>
+  </td>
 
-<td width="40%" align="center" valign="middle">
-<img
-  src="travlr_product.webp?raw=1"
-  alt="TRAVLR ecosystem"
-  width="100%"
-/>
-</td>
-
-</tr>
+  <td style="width:40%; vertical-align:top; text-align:center;">
+    <img
+      src="travlr_product.webp?raw=1"
+      style="width:100%; max-width:500px; display:block; margin:0 auto;"
+      alt="TRAVLR ecosystem"
+    />
+  </td>
+  </tr>
 </table>
 
 ---
@@ -43,39 +43,40 @@ Digital memories become physical. Physical memories become interactive.
 
 ### Team
 
-<table>
-<tr>
+<table width="100%">
+  <tr>
 
-<td align="center">
+    <td align="center" style="width:50%; vertical-align:top;">
 
 <a href="https://github.com/matsmiersen">
-<img src="https://github.com/matsmiersen.png?size=180" width="120"/><br>
+<img src="https://github.com/matsmiersen.png?size=180" width="120" style="border-radius:12px;" />
 </a>
+
+<br><br>
 
 <b>Mats Miersen</b><br>
 Founder
 
-</td>
+    </td>
 
-<td width="40"></td>
-
-<td align="center">
+    <td align="center" style="width:50%; vertical-align:top;">
 
 <a href="https://discord.com/users/1048558581143830579">
-
-<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="120"/><br>
-
+<div style="width:120px; height:120px; display:flex; align-items:center; justify-content:center; margin:0 auto;">
+  <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="90" />
+</div>
 </a>
 
 <b>Join Team</b><br>
 Member
 
-</td>
+<br>
+<a href="https://discord.com/users/1048558581143830579">Message on Discord</a>
 
-</tr>
+    </td>
+
+  </tr>
 </table>
-
----
 
 <details>
 
