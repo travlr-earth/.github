@@ -1,30 +1,24 @@
 # TRAVLR
-
 <table width="100%" cellpadding="16" cellspacing="0">
   <tr>
     <td style="width:60%; vertical-align:top;">
 ### Beyond a travel app
 TRAVLR is an immersive travel memory ecosystem centered around a living, explorable world.
-
 Built around a real-time 3D globe experience, TRAVLR combines a travel companion, memory journal, discovery engine, and social layer into a single platform. Users can revisit journeys geographically, write and explore memories tied to places, discover stories from around the world, and build a persistent map of where they've been.
-
 TRAVLR extends beyond software through connected, sensor-enabled smart souvenirs. Users can buy, collect, and gift physical travel objects directly from the app. A simple tap unlocks associated memories, stories, photos, and experiences — turning souvenirs into living containers for travel history.
-
-**Digital memories become physical. Physical memories become interactive.**  
+Digital memories become physical. Physical memories become interactive.
 Memories stay alive forever.
-    </td>
+  </td>
     <td style="width:40%; vertical-align:top; text-align:center;">
-      <img
-        src="travlr_product.webp?raw=1"
-        style="width:100%; max-width:500px; display:block; margin:0 auto;"
-        alt="TRAVLR ecosystem"
-      />
-    </td>
+    <img
+      src="travlr_product.webp?raw=1"
+      style="width:100%; max-width:500px; display:block; margin:0 auto;"
+      alt="TRAVLR ecosystem"
+    />
+  </td>
   </tr>
 </table>
-
 ---
-
 ### Core experiences
 - 🌍 Immersive 3D globe exploration
 - ✍️ Travel diary & memory journaling
@@ -33,32 +27,29 @@ Memories stay alive forever.
 - 🎁 Buy & gift connected souvenirs
 - 📡 NFC / sensor-enabled memory objects
 - 📖 Tap any smart souvenir to instantly relive experiences
-
 ---
-
 ### Team
 
 <table width="100%">
   <tr>
-    <td align="center" style="padding: 20px;">
+    <td align="center" style="width:50%; vertical-align:top; padding:20px;">
       <a href="https://github.com/matsmiersen">
-        <img src="https://github.com/matsmiersen.png?size=200" width="130" style="border-radius: 50%; border: 3px solid #22d3ee;" alt="Mats Miersen"/>
+        <img src="https://github.com/matsmiersen.png?size=200" width="130" style="border-radius:50%; border:3px solid #22d3ee;" />
       </a>
       <br><br>
       <b>Mats Miersen</b><br>
-      <span style="color:#22d3ee;">Founder</span>
+      Founder
     </td>
-    
-    <td align="center" style="padding: 20px;">
+    <td align="center" style="width:50%; vertical-align:top; padding:20px;">
       <a href="https://discord.com/users/1048558581143830579">
-        <div style="width:130px; height:130px; background:#1e2338; border-radius:50%; display:flex; align-items:center; justify-content:center; margin:0 auto; border: 3px solid #5865F2;">
-          <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="75"/>
+        <div style="width:130px; height:130px; margin:0 auto; background:#1e2338; border-radius:50%; display:flex; align-items:center; justify-content:center; border:3px solid #5865F2;">
+          <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="80" />
         </div>
       </a>
       <br><br>
-      <b>Join the Team</b><br>
-      <span style="color:#8b949e;">Member</span><br><br>
-      <a href="https://discord.com/users/1048558581143830579" style="color:#5865F2; text-decoration:none;">Message on Discord →</a>
+      <b>Join Team</b><br>
+      Member<br><br>
+      <a href="https://discord.com/users/1048558581143830579">Message on Discord</a>
     </td>
   </tr>
 </table>
@@ -66,7 +57,6 @@ Memories stay alive forever.
 <details>
 <summary><b>Members Directory</b></summary>
 <br>
-
 ### Repository Directory
 | | Repo | Description |
 |---|---|---|
@@ -78,11 +68,8 @@ Memories stay alive forever.
 | 🎨 | [styles](https://github.com/travlr-earth/styles) | Design tokens & shared styles |
 | 🚀 | [deploy](https://github.com/travlr-earth/deploy) | Infrastructure & deployment |
 | 📚 | [context](https://github.com/travlr-earth/context) | Shared agent & dev context (SSOT) |
-
 </details>
-
 ---
-
 <p align="center">
-  <a href="https://travlr.earth">travlr.earth</a>
+<a href="https://travlr.earth">travlr.earth</a>
 </p>
