@@ -1,7 +1,20 @@
 # TRAVLR
 
-**The ultimate travel memory platform.**  
-Capture your journeys, explore the world, and relive every moment.
+<table cellpadding="16">
+  <tr>
+    <td width="55%" valign="top" style="padding-top:16px;">
+      <strong>The ultimate travel memory platform.</strong><br>
+      Capture your journeys, explore the world, and relive every moment.
+    </td>
+    <td width="45%" align="center" valign="top">
+      <img
+        src="travlr_product.webp?raw=1"
+        alt="TRAVLR app and physical memory objects"
+        width="420"
+      />
+    </td>
+  </tr>
+</table>
 
 ---
 
