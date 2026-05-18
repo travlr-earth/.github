@@ -6,13 +6,16 @@
 
 ### Beyond a travel app
 
-TRAVLR is an immersive travel memory ecosystem centered around a living, explorable world.
+TRAVLR is an immersive travel memory ecosystem centered around you: the traveler
 
-Built around a real-time 3D globe experience, TRAVLR combines a travel companion, memory journal, discovery engine, and social layer into a single platform. Users can revisit journeys geographically, write and explore memories tied to places, discover stories from around the world, and build a persistent map of where they've been.
+Built around a real-time 3D globe experience, TRAVLR combines a travel companion, memory journal, discovery engine, and social layer into a single platform. 
+Users can revisit journeys geographically, write and explore memories tied to places, discover stories from around the world, and build a persistent map of where they've been.
 
-TRAVLR extends beyond software through connected, sensor-enabled smart souvenirs. Users can buy, collect, and gift physical travel objects directly from the app. A simple tap unlocks associated memories, stories, photos, and experiences — turning souvenirs into living containers for travel history.
+TRAVLR extends beyond software through connected, sensor-enabled smart souvenirs. Users can buy, collect, and gift physical travel objects directly from the app. 
+A simple tap unlocks associated memories, stories, photos, and experiences — turning souvenirs into living containers for travel history.
 
 Digital memories become physical. Physical memories become interactive.
+Memories stay alive through continous engagement.
 
 </td>
 
