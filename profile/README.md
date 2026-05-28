@@ -2,7 +2,7 @@
 
 <table width="100%" cellpadding="16">
   <tr>
-    <td width="60%" valign="top">
+    <td width="50%" valign="top">
 
 ### Beyond a travel app
 
@@ -20,7 +20,7 @@ Memories stay alive through continous engagement.
 
 </td>
 
-<td width="40%" align="center" valign="middle">
+<td width="50%" align="center" valign="middle">
 <img
   src="travlr_product.webp?raw=1"
   alt="TRAVLR ecosystem"
@@ -96,7 +96,8 @@ Member
 | ⚙️ | [backend](https://github.com/travlr-earth/backend) | Supabase backend & APIs |
 | 📱 | [native](https://github.com/travlr-earth/native) | iOS & Android (Capacitor) |
 | 🤖 | [data](https://github.com/travlr-earth/data) | Agentic exploration layer |
-| 🎨 | [styles](https://github.com/travlr-earth/styles) | Design tokens & shared styles |
+| 🗺️ | [mapstyles](https://github.com/travlr-earth/mapstyles) | Mapbox map styles & previews |
+| 🎨 | [frontendstyles](https://github.com/travlr-earth/frontendstyles) | Frontend design tokens & UI themes |
 | 🚀 | [deploy](https://github.com/travlr-earth/deploy) | Infrastructure & deployment |
 | 📚 | [context](https://github.com/travlr-earth/context) | Shared agent & dev context (SSOT) |
 
